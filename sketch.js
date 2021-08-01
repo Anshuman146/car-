@@ -11,8 +11,8 @@ var cars=[]
 var obstacles,fuel,power;
 
 function preload(){
-car1Img=loadImage("assets/car1.png");
-car2Img=loadImage("assets/car2.png");
+car1Img=loadImage("car1.png");
+car2Img=loadImage("car2.png");
 /*car3Img=loadImage("assets/.png");
 car4Img=loadImage("assests/download (4).png");
 car5Img=loadImage("assests/download (5).png");
